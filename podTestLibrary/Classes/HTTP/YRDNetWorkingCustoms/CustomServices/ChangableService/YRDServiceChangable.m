@@ -7,6 +7,7 @@
 //
 
 #import "YRDServiceChangable.h"
+#import "YRDNetworkingConfiguration.h"
 
 @implementation YRDServiceChangable
 - (BOOL)isOnline {

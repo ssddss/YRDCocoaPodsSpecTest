@@ -1,0 +1,38 @@
+{
+  "name": "podTestLibrary",
+  "version": "0.1.0",
+  "summary": "Just for testing",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ssddss/YRDCocoaPodsSpecTest.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yurongde": "359067441@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ssddss/YRDCocoaPodsSpecTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "podTestLibrary/Classes/**/*.{h,m}",
+  "resource_bundles": {
+    "podTestLibrary": [
+      "podTestLibrary/Assets/*.png"
+    ]
+  },
+  "public_header_files": "podTestLibrary/Classes/**/*.{h}",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "Masonry": [
+
+    ]
+  }
+}

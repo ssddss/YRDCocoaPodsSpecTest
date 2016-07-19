@@ -1,0 +1,1 @@
+../../../../../podTestLibrary/Classes/HTTP/Components/BaseAPIManager/YRDAPIBaseManager.h
